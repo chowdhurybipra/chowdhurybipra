@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bipra Chowdhury</h1>
 <h3 align="center">A passionate Engineer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Robotics: a journey with Arduino**
+- 🌱 I’m currently learning **Robotics : a journey with Arduino**
 
 - 📫 How to reach me **biprochowdhury8@gmail.com**
 
